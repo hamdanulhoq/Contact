@@ -22,7 +22,7 @@ width: 70%;
 .content h2 {
 
 font-size: 54px;
-color: #db714e;
+color: #005a96;
 text-transform: uppercase;
 }
 .content p {
@@ -30,7 +30,7 @@ font-size: 23px;
 margin: 15px 0;
 }
 .content button {
-background-color: #04aa6d;
+background-color: #5c9600;
 border: none;
 border-radius: 5px;
 font-weight: 600;
@@ -40,5 +40,5 @@ font-size: 16px;
 cursor: pointer;
 }
 .content button:hover {
-background-color: #068858; transition: 0.5s ease-in;
+background-color: #304d01; transition: 0.5s ease-in;
 }
